@@ -14,7 +14,8 @@ This is a repository for a data science course, that provides a broad background
 - Installing Python 
 - Variables
 - Data structure
-- Control flow and conditionals
+- Control flow
+- Conditionals
 - Functions
 - Classes
 - Iterables
