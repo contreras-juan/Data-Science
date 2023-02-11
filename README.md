@@ -20,7 +20,6 @@ This is a repository for a data science course, that provides a broad background
 - Classes
 - Iterables
 - Basic libraries
-- Virtual environments
 
 ### Math fundamentals
 
