@@ -31,10 +31,10 @@ This is a repository for a data science course, that provides a broad background
 
 ### Statistics fundamentals
 
+- Descriptive statistics
 - Probability
 - Random variables
 - Continous random variables
-- Descriptive statistics
 - Data visualization fundamentals
 - Probability distribution
 - Statistical inference
