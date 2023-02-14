@@ -28,7 +28,6 @@ This is a repository for a data science course, that provides a broad background
 - Integral calculus
 - Linear algebra
 - Optimization
-- Automatic differentiation
 
 ### Statistics fundamentals
 
